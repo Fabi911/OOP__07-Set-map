@@ -1,3 +1,5 @@
+package de.School;
+
 import java.util.ArrayList;
 
 public class Main {

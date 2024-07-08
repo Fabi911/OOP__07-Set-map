@@ -1,3 +1,5 @@
+package de.School;
+
 import java.util.Objects;
 
 public class Course {
