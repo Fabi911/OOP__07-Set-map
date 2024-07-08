@@ -2,7 +2,7 @@ package de.task2;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello in my Pharmacy");
+        System.out.println("Hello in my Pharmacy\n");
         Pharmacy myPharmacy = new Pharmacy();
         myPharmacy.addMedication("Asperin", new Medication("Asperin","13,45€", "on Stock"));
         myPharmacy.addMedication("Ibuprofen", new Medication("Ibuprofen", "8,99€", "in Stock"));

@@ -28,7 +28,7 @@ public class Pharmacy {
     }
     public void printMedications() {
         for (Map.Entry<String, Medication> entry : medications.entrySet()) {
-            System.out.println(entry);
+            System.out.println("--> "+entry);
         }
     }
 }
